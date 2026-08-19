@@ -14,8 +14,8 @@
                             <h2 class="text-white me-4 mb-0">Mi perfil profesional</h2>
                             <img src="Images/happy-bearded-young-man.jpg" class="avatar-image img-fluid" alt="">
                         </div>
-                        <h3 class="pt-2 mb-3">De operaciones a la tecnología</h3>
-                        <p>Profesional con sólida experiencia liderando equipos multidisciplinarios y optimizando procesos en entornos corporativos de alta demanda. Actualmente estoy consolidando mi transición hacia el desarrollo de software con C# .NET, SQL Server y tecnologías web. Combino pensamiento analítico, liderazgo y una fuerte motivación por crecer en equipos ágiles que busquen resultados reales.</p>
+                        <h3 class="pt-2 mb-3">De operaciones a la tecnolog&iacute;a</h3>
+                        <p>Profesional con s&oacute;lida experiencia liderando equipos multidisciplinarios y optimizando procesos en entornos corporativos de alta demanda. Actualmente estoy consolidando mi transici&oacute;n hacia el desarrollo de software con C# .NET, SQL Server y tecnolog&iacute;as web. Combino pensamiento anal&iacute;tico, liderazgo y una fuerte motivaci&oacute;n por crecer en equipos &aacute;giles que busquen resultados reales.</p>
                     </div>
                 </div>
             </div>
@@ -28,7 +28,7 @@
                 <div class="col-lg-6 col-12">
                     <div class="profile-thumb">
                         <div class="profile-title">
-                            <h4 class="mb-0">Información principal</h4>
+                            <h4 class="mb-0">Informaci&oacute;n principal</h4>
                         </div>
                         <div class="profile-body">
                             <p>
@@ -36,11 +36,11 @@
                                 <span>Gabriel Blanco</span>
                             </p>
                             <p>
-                                <span class="profile-small-title">Ubicación</span>
+                                <span class="profile-small-title">Ubicaci&oacute;n</span>
                                 <span>Buenos Aires, Argentina</span>
                             </p>
                             <p>
-                                <span class="profile-small-title">Teléfono</span>
+                                <span class="profile-small-title">Tel&eacute;fono</span>
                                 <span><a href="tel:+541136729505">+54 9 1136729505</a></span>
                             </p>
                             <p>
@@ -55,7 +55,7 @@
                         <div class="row">
                             <div class="col-lg-6 col-6 featured-border-bottom py-2">
                                 <strong class="featured-numbers">+3</strong>
-                                <p class="featured-text">Años desarrollando de forma independiente</p>
+                                <p class="featured-text">A&ntilde;os desarrollando de forma independiente</p>
                             </div>
                             <div class="col-lg-6 col-6 featured-border-start featured-border-bottom ps-5 py-2">
                                 <strong class="featured-numbers">+20</strong>
@@ -67,7 +67,7 @@
                             </div>
                             <div class="col-lg-6 col-6 featured-border-start ps-5 pt-4">
                                 <strong class="featured-numbers">100%</strong>
-                                <p class="featured-text">Motivación para crecer en una empresa</p>
+                                <p class="featured-text">Motivaci&oacute;n por crecer en una empresa</p>
                             </div>
                         </div>
                     </div>
@@ -90,7 +90,7 @@
                                 <div class="d-flex flex-wrap align-items-center border-bottom mb-4 pb-3">
                                     <h3 class="mb-0">Desarrollo backend con C# .NET</h3>
                                 </div>
-                                <p>Desarrollo lógicas de negocio, CRUD, validaciones complejas y soluciones orientadas a objetos con C# .NET, con foco en mantener código claro, escalable y fácil de mantener.</p>
+                                <p>Desarrollo l&oacute;gicas de negocio, CRUD, validaciones complejas y soluciones orientadas a objetos con C# .NET, con foco en mantener c&oacute;digo claro, escalable y f&aacute;cil de mantener.</p>
                                 <div class="services-icon-wrap d-flex justify-content-center align-items-center">
                                     <i class="services-icon bi-globe"></i>
                                 </div>
@@ -101,7 +101,7 @@
                                 <div class="d-flex flex-wrap align-items-center border-bottom mb-4 pb-3">
                                     <h3 class="mb-0">Bases de datos y SQL Server</h3>
                                 </div>
-                                <p>Diseño y mantengo estructuras de datos, consultas SQL y soluciones de almacenamiento con foco en rendimiento, integridad y claridad.</p>
+                                <p>Dise&ntilde;o y mantengo estructuras de datos, consultas SQL y soluciones de almacenamiento con foco en rendimiento, integridad y claridad.</p>
                                 <div class="services-icon-wrap d-flex justify-content-center align-items-center">
                                     <i class="services-icon bi-lightbulb"></i>
                                 </div>
@@ -112,7 +112,7 @@
                                 <div class="d-flex flex-wrap align-items-center border-bottom mb-4 pb-3">
                                     <h3 class="mb-0">Desarrollo web front-end</h3>
                                 </div>
-                                <p>Trabajo con HTML5, CSS3, JavaScript y Bootstrap para construir interfaces claras, funcionales y alineadas con buenas prácticas de experiencia de usuario.</p>
+                                <p>Trabajo con HTML5, CSS3, JavaScript y Bootstrap para construir interfaces claras, funcionales y alineadas con buenas pr&aacute;cticas de experiencia de usuario.</p>
                                 <div class="services-icon-wrap d-flex justify-content-center align-items-center">
                                     <i class="services-icon bi-phone"></i>
                                 </div>
@@ -141,27 +141,27 @@
                 <div class="col-12">
                     <div class="section-title-wrap d-flex justify-content-center align-items-center mb-5">
                         <img src="Images/white-desk-work-study-aesthetics.jpg" class="avatar-image img-fluid" alt="">
-                        <h2 class="text-white ms-4 mb-0">Experiencia, formación y certificaciones</h2>
+                        <h2 class="text-white ms-4 mb-0">Experiencia, formaci&oacute;n y certificaciones</h2>
                     </div>
                 </div>
                 <div class="col-lg-6 col-12 mb-4">
                     <div class="about-thumb p-4">
                         <h3 class="mb-3">Experiencia profesional</h3>
                         <ul class="mb-0">
-                            <li><strong>Desarrollador .NET en formación</strong> — proyectos personales y desarrollo independiente (2023 - actualidad)</li>
-                            <li><strong>Sub Gerente de Operaciones</strong> — Cinepolis Argentina (2016 - 2022)</li>
-                            <li><strong>Coordinador de Depósito y Logística Comercial</strong> — Maransi (2015 - 2016)</li>
+                            <li><strong>Desarrollador .NET en formaci&oacute;n</strong> &mdash; proyectos personales y desarrollo independiente (2023 - actualidad)</li>
+                            <li><strong>Sub Gerente de Operaciones</strong> &mdash; Cinepolis Argentina (2016 - 2022)</li>
+                            <li><strong>Coordinador de Dep&oacute;sito y Log&iacute;stica Comercial</strong> &mdash; Maransi (2015 - 2016)</li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-6 col-12 mb-4">
                     <div class="about-thumb p-4">
-                        <h3 class="mb-3">Formación y certificaciones</h3>
+                        <h3 class="mb-3">Formaci&oacute;n y certificaciones</h3>
                         <ul class="mb-0">
-                            <li><strong>ASP.NET WebForms, MVC, Entity Framework & Web API</strong> — en curso, Maxi Programa</li>
-                            <li><strong>C# .NET Nivel 1 y 2</strong> — certificado, Maxi Programa</li>
-                            <li><strong>Frontend con JavaScript, HTML5 y CSS3</strong> — certificado, OpenBootcamp</li>
-                            <li><strong>Inglés intensivo y competencias globales</strong> — certificado</li>
+                            <li><strong>ASP.NET WebForms, MVC, Entity Framework &amp; Web API</strong> &mdash; en curso, Maxi Programa</li>
+                            <li><strong>C# .NET Nivel 1 y 2</strong> &mdash; certificado, Maxi Programa</li>
+                            <li><strong>Frontend con JavaScript, HTML5 y CSS3</strong> &mdash; certificado, OpenBootcamp</li>
+                            <li><strong>Ingl&eacute;s intensivo y competencias globales</strong> &mdash; certificado</li>
                         </ul>
                     </div>
                 </div>

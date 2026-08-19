@@ -9,9 +9,9 @@
                     <div class="hero-text">
                         <div class="hero-title-wrap d-flex align-items-center mb-4">
                             <img src="Images/happy-bearded-young-man.jpg" class="avatar-image avatar-image-large img-fluid" alt="">
-                            <h1 class="hero-title ms-3 mb-0">¡Hola! Soy Gabriel</h1>
+                            <h1 class="hero-title ms-3 mb-0">&iexcl;Hola! Soy Gabriel</h1>
                         </div>
-                        <h2 class="mb-4">Desarrollador .NET en formación | SQL Server | orientado a resultados.</h2>
+                        <h2 class="mb-4">Desarrollador .NET en formaci&oacute;n | SQL Server | orientado a resultados.</h2>
                         <p class="mb-4 d-flex flex-wrap gap-2">
                             <a class="custom-btn btn custom-link" href="About.aspx">Ver mi perfil</a>
                             <a class="custom-btn btn custom-link" href="https://github.com/Blan25ga" target="_blank" rel="noopener noreferrer">GitHub</a>
@@ -37,7 +37,7 @@
                 <div class="col-lg-8 col-md-12 col-12 ms-auto">
                     <div class="section-title-wrap d-flex justify-content-center align-items-center mb-4">
                         <img src="Images/white-desk-work-study-aesthetics.jpg" class="avatar-image img-fluid" alt="">
-                        <h2 class="text-white ms-4 mb-0">Proyectos y práctica</h2>
+                        <h2 class="text-white ms-4 mb-0">Proyectos y pr&aacute;ctica</h2>
                     </div>
                 </div>
                 <div class="clearfix"></div>
@@ -54,7 +54,7 @@
                 <div class="col-lg-4 col-md-6 col-12">
                     <div class="projects-thumb">
                         <div class="projects-info">
-                            <h3 class="projects-title">Diseño de interfaz y UX</h3>
+                            <h3 class="projects-title">Dise&ntilde;o de interfaz y UX</h3>
                         </div>
                         <a href="https://formlogin-responsive.netlify.app">
                             <img src="Images/projects/the-5th-IQYR7N67dhM-unsplash.jpg" class="projects-image img-fluid" alt="">
@@ -74,7 +74,7 @@
                 <div class="col-lg-4 col-md-6 col-12">
                     <div class="projects-thumb">
                         <div class="projects-info">
-                            <h3 class="projects-title">Proyecto de práctica frontend</h3>
+                            <h3 class="projects-title">Proyecto de pr&aacute;ctica frontend</h3>
                         </div>
                         <a href="https://eclockweb.netlify.app">
                             <img src="Images/projects/eClockweb.jpg" class="projects-image img-fluid" alt="">
@@ -84,7 +84,7 @@
                 <div class="col-lg-4 col-md-6 col-12">
                     <div class="projects-thumb">
                         <div class="projects-info">
-                            <h3 class="projects-title">Diseño de sitio institucional</h3>
+                            <h3 class="projects-title">Dise&ntilde;o de sitio institucional</h3>
                         </div>
                         <a href="https://martialweb.netlify.app">
                             <img src="Images/projects/martial-web-artesMarciales.jpg" class="projects-image img-fluid" alt="">
@@ -94,7 +94,7 @@
                 <div class="col-lg-4 col-md-12 col-12">
                     <div class="projects-thumb">
                         <div class="projects-info">
-                            <h3 class="projects-title">Proyecto de contenido y presentación</h3>
+                            <h3 class="projects-title">Proyecto de contenido y presentaci&oacute;n</h3>
                         </div>
                         <a href="https://covid19-infoweb.netlify.app/">
                             <img src="Images/projects/Info-Covid19.jpg" class="projects-image img-fluid" alt="">

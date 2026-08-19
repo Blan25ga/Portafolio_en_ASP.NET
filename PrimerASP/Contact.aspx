@@ -14,14 +14,14 @@
             }
 
             if (email === "") {
-                alert("Por favor, ingrese su correo electrónico.");
+                alert("Por favor, ingrese su correo electr\u00F3nico.");
                 return false;
             }
 
             // Validar formato de email
             var emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
             if (!emailRegex.test(email)) {
-                alert("Por favor, ingrese un correo electrónico válido.");
+                alert("Por favor, ingrese un correo electr\u00F3nico v\u00E1lido.");
                 return false;
             }
 
@@ -30,7 +30,7 @@
                 return false;
             }
 
-            alert("¡Formulario completado correctamente! (Simulación de envío exitosa)");
+            alert("\u00A1Formulario completado correctamente! (Simulaci\u00F3n de env\u00EDo exitosa)");
             return true;
         }
     </script>
@@ -42,7 +42,7 @@
                 <div class="col-lg-12 col-12">
                     <div class="section-title-wrap d-flex justify-content-center align-items-center mb-5">
                         <img src="Images/aerial-view-man-using-computer-laptop-wooden-table.jpg" class="avatar-image img-fluid" alt="">
-                        <h2 class="text-white ms-4 mb-0">¿Buscas a alguien con iniciativa y actitud ?</h2>
+                        <h2 class="text-white ms-4 mb-0">&iquest;Buscas a alguien con iniciativa y actitud?</h2>
                     </div>
                 </div>
 
@@ -59,7 +59,7 @@
                         </ul>
 
                         <strong class="site-footer-title d-block mt-4 mb-3">Interesado en trabajar conmigo</strong>
-                        <p class="mb-3">Estoy disponible para sumarme a un equipo y aportar valor desde el primer día</p>
+                        <p class="mb-3">Estoy disponible para sumarme a un equipo y aportar valor desde el primer d&iacute;a</p>
 
                         <div class="d-flex flex-wrap gap-2">
                             <a class="btn btn-sm btn-outline-light" href="https://github.com/Blan25ga" target="_blank" rel="noopener noreferrer">GitHub</a>
@@ -71,9 +71,9 @@
 
                 <div class="col-lg-3 col-md-6 col-12 ps-lg-0">
                     <div class="contact-info d-flex flex-column">
-                        <strong class="site-footer-title d-block mb-3">Sobre mí</strong>
+                        <strong class="site-footer-title d-block mb-3">Sobre m&iacute;</strong>
                         <p class="mb-2">
-                            Soy un profesional en transición hacia el desarrollo de software, con experiencia en liderazgo, operaciones y análisis. Me interesa crecer en una empresa donde pueda aportar criterio, disciplina y muchas ganas de aprender.
+                            Soy un profesional en transici&oacute;n hacia el desarrollo de software, con experiencia en liderazgo, operaciones y an&aacute;lisis. Me interesa crecer en una empresa donde pueda aportar criterio, disciplina y muchas ganas de aprender.
                         </p>
 
                         <strong class="site-footer-title d-block mt-4 mb-3">Correo</strong>
@@ -86,7 +86,7 @@
 
                 <div class="col-lg-6 col-12 mt-5 mt-lg-0">
                     <div class="contact-form-wrap p-5 rounded" style="background-color: #1c1c1e;">
-                        <h3 class="mb-4 text-white">Envíame un mensaje</h3>
+                        <h3 class="mb-4 text-white">Env&iacute;ame un mensaje</h3>
                         
                         <div class="mb-3">
                             <label for="txtNombre" class="form-label text-white-50">Nombre completo *</label>
@@ -94,13 +94,13 @@
                         </div>
                         
                         <div class="mb-3">
-                            <label for="txtEmail" class="form-label text-white-50">Correo electrónico *</label>
+                            <label for="txtEmail" class="form-label text-white-50">Correo electr&oacute;nico *</label>
                             <asp:TextBox ID="txtEmail" runat="server" CssClass="form-control" placeholder="blancogabriel751@gmail.com" style="background-color: #2c2c2e; border: none; color: #fff;"></asp:TextBox>
                         </div>
                         
                         <div class="mb-3">
                             <label for="txtMensaje" class="form-label text-white-50">Mensaje *</label>
-                            <asp:TextBox ID="txtMensaje" runat="server" TextMode="MultiLine" Rows="4" CssClass="form-control" placeholder="Hola, me gustaría contactarte para..." style="background-color: #2c2c2e; border: none; color: #fff;"></asp:TextBox>
+                            <asp:TextBox ID="txtMensaje" runat="server" TextMode="MultiLine" Rows="4" CssClass="form-control" placeholder="Hola, me gustar&iacute;a contactarte para..." style="background-color: #2c2c2e; border: none; color: #fff;"></asp:TextBox>
                         </div>
 
                         <asp:Button ID="btnEnviar" runat="server" Text="Enviar Mensaje" CssClass="btn custom-btn w-100" OnClientClick="return validarFormulario();" />
